@@ -1,0 +1,248 @@
+{
+  "CTRL": {
+    "comboBox_Controls": "OrbitControls.js"
+  }, 
+  "DEM": {
+    "checkBox_Clip": false, 
+    "checkBox_Frame": false, 
+    "checkBox_Shading": true, 
+    "checkBox_Sides": true, 
+    "checkBox_Surroundings": false, 
+    "checkBox_TransparentBackground": false, 
+    "comboBox_ClipLayer": "buildings_v120160407202851628", 
+    "comboBox_DEMLayer": "dblbnd20160408130644174", 
+    "comboBox_TextureSize": 100, 
+    "horizontalSlider_DEMSize": 2, 
+    "lineEdit_Color": "", 
+    "lineEdit_ImageFile": "", 
+    "lineEdit_centerX": "", 
+    "lineEdit_centerY": "", 
+    "lineEdit_rectHeight": "", 
+    "lineEdit_rectWidth": "", 
+    "radioButton_MapCanvas": true, 
+    "radioButton_Simple": true, 
+    "spinBox_Height": 4, 
+    "spinBox_Roughening": 4, 
+    "spinBox_Size": 5, 
+    "spinBox_demtransp": 0, 
+    "visible": false
+  }, 
+  "OutputFilename": "", 
+  "POINT": {
+    "antennas20160407203927837": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 2, 
+        "comboText": "Relative to DEM", 
+        "editText": "1", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 2, 
+        "comboText": "Height from point", 
+        "editText": "11582.7574008", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 1, 
+        "comboText": "Fixed value", 
+        "editText": "50", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": true
+    }, 
+    "picoAntennas20160408174103314": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 2, 
+        "comboText": "Relative to DEM", 
+        "editText": "6", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 2, 
+        "comboText": "Height from point", 
+        "editText": "11582.7574008", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 1, 
+        "comboText": "Fixed value", 
+        "editText": "277.98617762", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": false
+    }
+  }, 
+  "POLYGON": {
+    "buildings_v120160407202851628": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 105, 
+        "comboText": " \"HEIGHT\"", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from top", 
+        "editText": "11582.7574008", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "0x0000ff", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 105, 
+        "comboText": "\"HEIGHT\"", 
+        "editText": "100", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": true
+    }, 
+    "test20160408181217638": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 205, 
+        "comboText": "+\"HEIGHT\"", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from top", 
+        "editText": "5791.37870041", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 105, 
+        "comboText": "\"HEIGHT\"", 
+        "editText": "100", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": false
+    }, 
+    "test220160408181801761": {
+      "checkBox_Clip": true, 
+      "checkBox_ExportAttrs": false, 
+      "comboBox_Label": null, 
+      "comboBox_ObjectType": 0, 
+      "heightWidget": {
+        "comboData": 205, 
+        "comboText": "+\"HEIGHT\"", 
+        "editText": "0", 
+        "type": 4
+      }, 
+      "labelHeightWidget": {
+        "comboData": 3, 
+        "comboText": "Height from top", 
+        "editText": "11582.7574008", 
+        "type": 6
+      }, 
+      "radioButton_IntersectingFeatures": true, 
+      "styleWidget0": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 2
+      }, 
+      "styleWidget1": {
+        "comboData": 1, 
+        "comboText": "Feature style", 
+        "editText": "", 
+        "type": 5
+      }, 
+      "styleWidget2": {
+        "comboData": 105, 
+        "comboText": "\"HEIGHT\"", 
+        "editText": "100", 
+        "type": 1
+      }, 
+      "styleWidget3": {}, 
+      "styleWidget4": {}, 
+      "styleWidget5": {}, 
+      "visible": false
+    }
+  }, 
+  "PluginVersion": "1.4", 
+  "Template": "3DViewer.html", 
+  "WORLD": {
+    "lineEdit_BaseSize": "20", 
+    "lineEdit_Color": "", 
+    "lineEdit_zFactor": "0.2", 
+    "lineEdit_zShift": "0"
+  }
+}
