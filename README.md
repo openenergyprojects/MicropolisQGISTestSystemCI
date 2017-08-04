@@ -6,6 +6,12 @@ Our contribution is the design and implementation of the power, water and teleco
 
 All design calculations and methodologies for modeling critical infrastructures interdependencies are given in the paper below.
 
+The first version of the Micropolis developed in GIS can be found at:
+https://ceprofs.civil.tamu.edu/kbrumbelow/Micropolis/index.htm 
+
+EPANet files (MICROPOLIS_v1.net and micropolis_backdrop.bmp) are under MIT License. The original version can be found at:
+https://github.com/OpenWaterAnalytics/EPANET
+
 # HOW TO USE:
 The files are for QGIS program to map the systems.
 Integration with Matlab has been made in order to create the parameters layer of each infrastrucutre. These are under the matlab folder.
